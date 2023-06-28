@@ -8,7 +8,7 @@ The project covers the following:
     - Check Influence Point (Delete Influence Point)
     - Check Nomality
     - Check Variance Inflation Factor
-    - Model Selection (Step BIC)
+5. Model Selection (Step BIC)
 ## Dataset: 
 https://www.kaggle.com/datasets/hellbuoy/car-price-prediction  
 
