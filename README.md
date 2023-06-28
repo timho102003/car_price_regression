@@ -39,7 +39,8 @@ As $p\_value \lt \alpha$, indicates **significant heteroscendasticity problem**
 ### 2. Check Influence Point & Check Nomality
 - With Influence Point:  
 ![with Influence Pointw](images/w_infl_pt.png)
-- Delete Influence Point and Fit the Model Again: 
+  
+- Delete Influence Point and Fit the Model Again:  
 ![without Influence Pointw](images/wo_infl_pt.png)  
 
 ### 3. Check Variance Inflation Factor:
